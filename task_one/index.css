@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  width: 100vw;
+  height: 100vh;
+  box-sizing: border-box;
+  font-size: 20px;
+  background-color: grey;
+}
+
+.container {
+  display: flex;
+  width: 100%;
+}
+
+.middle_one {
+  flex-grow: 1;
+  background-color: black;
+  color: aliceblue;
+  text-align: center;
+}
+
+.middle_two {
+  flex-grow: 2;
+  background-color: blue;
+  color: aliceblue;
+  text-align: center;
+}
+
+.bg_white {
+  background-color: white;
+}
