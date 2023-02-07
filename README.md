@@ -19,7 +19,7 @@
 ### Для запуска:
 
 ```
-git clone 
+git clone git@github.com:CoinerLo/cerebro_test.git
 cd cerebro_test/task_two
 npm i
 npm run dev
